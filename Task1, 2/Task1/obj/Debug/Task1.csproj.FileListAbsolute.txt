@@ -1,0 +1,6 @@
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Админ\Downloads\Full Stack\Task1\Task1\obj\Debug\Task1.pdb
