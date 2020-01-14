@@ -1,0 +1,12 @@
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Админ\Downloads\Full Stack\Task4\Task4\obj\Debug\Task4.pdb
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\obj\Debug\Task4.pdb
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Админ\Downloads\Full Stack\TASK\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

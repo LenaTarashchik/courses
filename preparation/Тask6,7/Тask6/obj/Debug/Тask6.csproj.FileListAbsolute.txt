@@ -1,0 +1,6 @@
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\bin\Debug\Тask6.exe.config
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\bin\Debug\Тask6.exe
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\bin\Debug\Тask6.pdb
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\obj\Debug\Тask6.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\obj\Debug\Тask6.exe
+C:\Users\Админ\Downloads\Full Stack\Тask6\Тask6\obj\Debug\Тask6.pdb
